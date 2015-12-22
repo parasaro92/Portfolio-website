@@ -28,4 +28,9 @@ $('document').ready(function() {
       $('.c1').fadeIn(1000);
       $('.w1').fadeIn(1000);
     });
+
+    // $('header nav').affix({
+    // offset: {
+    //   top: 80
+    // }
 });
